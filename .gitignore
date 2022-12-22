@@ -1,0 +1,21 @@
+# Distribution / packaging
+/venv/
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# All log
+*.log
+
+# MacOS file
+.DS_Store
+
+# env file
+.env
+
+# ls-dyna file
+*.k
+*.cfile
+*.msg

@@ -1,0 +1,21 @@
+{
+    "test_name": "ASTM D 3039",
+    "keyfile_name": "keyfile.k",
+    "keyfile_path": "D:\\Documents\\CML\\CML_LS-Dyna_scripts\\ASTM_D3039",
+    "tolerance": 0.1,
+    "L": 0.25,
+    "b": 0.05,
+    "problem_statement": 1,
+    "laminate_statement": 0,
+    "n": 4,
+    "symmetry": 1,
+    "angle": 45,
+    "t": 0.001,
+    "lx": 125,
+    "ly": 25,
+    "lz": 0,
+    "A": 0.05,
+    "displ": 0.01,
+    "termination_time": 1,
+    "step": 1e-4
+}
